@@ -1,7 +1,7 @@
 package com.anupama.SimpleHttpAPI.service;
 
-import com.anupama.SimpleHttpAPI.model.ErrorResponse;
-import com.anupama.SimpleHttpAPI.model.SuccessResponse;
+import com.anupama.SimpleHttpAPI.dto.ErrorResponse;
+import com.anupama.SimpleHttpAPI.dto.SuccessResponse;
 import org.junit.jupiter.api.Test;
 import org.springframework.http.ResponseEntity;
 

@@ -1,4 +1,4 @@
-package com.anupama.SimpleHttpAPI.model;
+package com.anupama.SimpleHttpAPI.dto;
 
 import lombok.Getter;
 
